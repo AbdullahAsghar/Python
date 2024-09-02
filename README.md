@@ -11,4 +11,4 @@ c. **Notebook** (*contains the script written for the task*)<br>
 
 | Sub-folder | Brief Overview |  Dataset Link  |  
 |:-:|:-:|:-:|
-| [Understanding Spurious Relationships](https://github.com/AbdullahAsghar/Python/tree/main/Understanding%20Spurious%20Relationships) | A pet project inspired by Jasmin Jusufbegovic's [post](https://www.linkedin.com/in/jasmin-jusufbegovic-560140210/) - this project focuses primarily on figuring out whether heights of athletes impact their finishing times in swimming. | Available in repo |
+| [Understanding Spurious Relationships](https://github.com/AbdullahAsghar/Python/tree/main/Understanding%20Spurious%20Relationships) | A pet project inspired by Jasmin Jusufbegovic's [post](https://www.linkedin.com/in/jasmin-jusufbegovic-560140210/) - this project focuses primarily on figuring out whether heights of athletes impact their finishing times in competitive swimming. | Available in repo |
